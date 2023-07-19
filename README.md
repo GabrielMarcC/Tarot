@@ -51,7 +51,7 @@ start da aplicação:
 ## Deploy
 
 
-### Link: 
+### Link: https://tarot-gabrielmarcc.vercel.app/
 
 ## Autor
 
